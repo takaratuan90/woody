@@ -1,0 +1,7 @@
+passlib
+requests
+argon2
+cryptopp
+curl
+nlohmann-json
+openssl
